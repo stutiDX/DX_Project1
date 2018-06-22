@@ -1,0 +1,227 @@
+[
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1529572526332,
+            "changeTime": 1529572526332,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1529574474584,
+            "changeTime": 1529574474584,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1529574360047,
+            "changeTime": 1529574360047,
+            "contentHash": "b443158adc69cfd43a4521fdf9981515deab156c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1529572526333,
+            "changeTime": 1529572526333,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1529574366168,
+            "changeTime": 1529574366168,
+            "contentHash": "57325e53cc70a4f00cfad981c15b572c6c83b9c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default\\classes\\HelloWorld.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default\\classes\\HelloWorld.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 109,
+            "modifiedTime": 1529574366174,
+            "changeTime": 1529574366174,
+            "contentHash": "d4869433167fb7ad6a403b4538e4c9f03eaeb2c7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default\\classes\\HelloWorld.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default\\classes\\HelloWorld.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1529574366174,
+            "changeTime": 1529574366174,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1529573726355,
+            "changeTime": 1529573726355,
+            "contentHash": "3bd159f19c78bea1ad7b7576539f20f840379339",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default\\layouts\\Employee__c-Employee Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default\\layouts\\Employee__c-Employee Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2037,
+            "modifiedTime": 1529573726357,
+            "changeTime": 1529573726357,
+            "contentHash": "e00884cbc69803289ae3991b3a2ed7355c0317e7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1529573726343,
+            "changeTime": 1529573726343,
+            "contentHash": "b55e89b820e04112537fad94f319312e07f6509e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default\\objects\\Employee__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default\\objects\\Employee__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1529573726347,
+            "changeTime": 1529573726347,
+            "contentHash": "a4bee72c78311716b2410471453ceb7767ee5d58",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default\\objects\\Employee__c\\Employee__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default\\objects\\Employee__c\\Employee__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2077,
+            "modifiedTime": 1529573726349,
+            "changeTime": 1529573726349,
+            "contentHash": "cc3dd184bd9a1cffcc22df0903bc9c7ca28eaca0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default\\profiles",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1529574728517,
+            "changeTime": 1529574728517,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\TestDx\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18174,
+            "modifiedTime": 1529573726423,
+            "changeTime": 1529573726423,
+            "contentHash": "08430f57bef084f53f1a2fc8643b2e043a1a3572",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\TestDx",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\TestDx",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1529573769546,
+            "changeTime": 1529573769546,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
