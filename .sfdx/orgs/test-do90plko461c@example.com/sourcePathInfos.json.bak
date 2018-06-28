@@ -1,0 +1,287 @@
+[
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530107290207,
+            "changeTime": 1530107290207,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530107290208,
+            "changeTime": 1530107290208,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530163603560,
+            "changeTime": 1530163603560,
+            "contentHash": "94abc26760147d406e593f9b8feb161f43c370c3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530163694978,
+            "changeTime": 1530163694978,
+            "contentHash": "1e1aaf0002bd88d11dfb2c84431714b0a559716e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\AccountContactRoles.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\AccountContactRoles.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 687,
+            "modifiedTime": 1530163594351,
+            "changeTime": 1530163594351,
+            "contentHash": "fd26c0b66982a48215a3eb3ea1eacdbec9ecca28",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\AccountContactRoles.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\AccountContactRoles.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 197,
+            "modifiedTime": 1530163579611,
+            "changeTime": 1530163579611,
+            "contentHash": "7f33a3a333a7ec2182337c80d8d97eb17a176fba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\AccountContactRolesTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\AccountContactRolesTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 754,
+            "modifiedTime": 1530163705081,
+            "changeTime": 1530163705081,
+            "contentHash": "190498d91700057a8314f29ead361a83e95e7789",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\AccountContactRolesTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\AccountContactRolesTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 201,
+            "modifiedTime": 1530163694984,
+            "changeTime": 1530163694984,
+            "contentHash": "f504ddb3ed0ef2f7ec829c24bc9d083bd91d5da5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\HelloWorld.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\HelloWorld.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 233,
+            "modifiedTime": 1530107290209,
+            "changeTime": 1530107290209,
+            "contentHash": "4ce3ddad64c8eec9caea81cd116ed95822454cc8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\HelloWorld.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\HelloWorld.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1530107290211,
+            "changeTime": 1530107290211,
+            "contentHash": "5dba4d8d1d7ec0e924d941c2ab6e8f8963f526c1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530107290212,
+            "changeTime": 1530107290212,
+            "contentHash": "3bd159f19c78bea1ad7b7576539f20f840379339",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\layouts\\Employee__c-Employee Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\layouts\\Employee__c-Employee Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2095,
+            "modifiedTime": 1530107290213,
+            "changeTime": 1530107290213,
+            "contentHash": "ad26537465188b2f6a62d4e5214ffd7bfc3110a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530107290213,
+            "changeTime": 1530107290213,
+            "contentHash": "b55e89b820e04112537fad94f319312e07f6509e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\objects\\Employee__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\objects\\Employee__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530107290214,
+            "changeTime": 1530107290214,
+            "contentHash": "a4bee72c78311716b2410471453ceb7767ee5d58",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\objects\\Employee__c\\Employee__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\objects\\Employee__c\\Employee__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2141,
+            "modifiedTime": 1530107290215,
+            "changeTime": 1530107290215,
+            "contentHash": "f2bdc1a1dd7899d51817c9cd5206a46ff556ac30",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\pages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530163627294,
+            "changeTime": 1530163627294,
+            "contentHash": "60d652df706db912c070bfb9e93921727456e80d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\pages\\AccContactRole.page",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\pages\\AccContactRole.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1469,
+            "modifiedTime": 1530163639960,
+            "changeTime": 1530163639960,
+            "contentHash": "88f7099c7b81c4f107ca2081128b7e2cc8061240",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\pages\\AccContactRole.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\pages\\AccContactRole.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1530163627299,
+            "changeTime": 1530163627299,
+            "contentHash": "0a97c11d1b707d56523d7bf6ba3a7a09ffae87fa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530107290216,
+            "changeTime": 1530107290216,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
