@@ -1,5 +1,5 @@
-public with sharing class DempPractice {
-    public DempPractice() {
-
+public with sharing class DemoPractice {
+    public DemoPractice() {
+        System.debug('>>>Hii');
     }
 }
