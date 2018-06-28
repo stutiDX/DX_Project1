@@ -1,0 +1,27 @@
+<apex:page standardcontroller="Contact" extensions="AccountContactRoles">
+    <apex:outputPanel >
+    <apex:form >
+        <apex:pageBlock >
+            <apex:pageBlockSection columns="1"> 
+                <apex:dataTable value="{!acrs}" var="acr" id="acrTable" rules="all" cellpadding="5px">
+                    <apex:column style="text-align:center;" width="100px" headerValue="Primary Contact">
+                        <apex:outputField value="{!acr.IsPrimary}"/>
+                    </apex:column>
+                    <apex:column width="150px" headerValue="Contact Role">
+                        <apex:outputText value="{!acr.Role}"/>
+                    </apex:column>
+                    <apex:column width="150px" headerValue="Account Type">
+                        <apex:outputText value="{!acr.Account.RecordType.Name}"/>
+                    </apex:column>
+                    <apex:column width="300px" headerValue="Account Name">
+                        <apex:outputLink value="/{!acr.Account.Id}" target="_parent">{!acr.Account.Name}</apex:outputLink>
+                    </apex:column>
+                    <apex:column style="text-align:center;" width="125px" headerValue="Account State">
+                        <apex:outputText value="{!acr.Account.BillingState}"/>
+                    </apex:column>
+                </apex:dataTable> 
+            </apex:pageBlockSection>
+        </apex:pageBlock> 
+    </apex:form>
+    </apex:outputPanel>
+</apex:page>
