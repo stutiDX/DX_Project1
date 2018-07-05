@@ -1,5 +1,5 @@
 public with sharing class DemoPractice {
     public DemoPractice() {
-        System.debug('>>>Hii');
+        System.debug('Hello world again 123456');
     }
 }
