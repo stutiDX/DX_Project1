@@ -1,5 +1,9 @@
+@isTest
 public with sharing class undefined {
-    public undefined() {
-
+    @isTest
+	static void testMethode1() {
+		SYstem.debug('Hello World');
+		SYstem.assert(true);
+		
     }
 }
