@@ -2,7 +2,7 @@
     [
         "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -17,7 +17,7 @@
     [
         "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -32,7 +32,7 @@
     [
         "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -47,7 +47,7 @@
     [
         "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -62,7 +62,7 @@
     [
         "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\ContactsListController.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\ContactsListController.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -77,7 +77,7 @@
     [
         "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\ContactsListController.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\ContactsListController.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -92,7 +92,7 @@
     [
         "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\DemoPractice.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\DemoPractice.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -107,7 +107,7 @@
     [
         "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\DemoPractice.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\DemoPractice.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -122,7 +122,7 @@
     [
         "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\undefined.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\undefined.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -137,7 +137,7 @@
     [
         "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\undefined.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\classes\\undefined.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -152,7 +152,7 @@
     [
         "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\layouts",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\layouts",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -167,7 +167,7 @@
     [
         "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\layouts\\Employee__c-Employee Layout.layout-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\layouts\\Employee__c-Employee Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -182,7 +182,7 @@
     [
         "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\objects",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\objects",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -197,7 +197,7 @@
     [
         "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\objects\\Employee__c",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\objects\\Employee__c",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -212,7 +212,7 @@
     [
         "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\objects\\Employee__c\\Employee__c.object-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\objects\\Employee__c\\Employee__c.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -227,7 +227,7 @@
     [
         "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\pages",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\pages",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -242,7 +242,7 @@
     [
         "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\pages\\ContactSearch.page",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\pages\\ContactSearch.page",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -257,7 +257,7 @@
     [
         "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\pages\\ContactSearch.page-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1\\force-app\\main\\default\\pages\\ContactSearch.page-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -272,7 +272,7 @@
     [
         "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\anjum.attar\\Desktop\\DX_Project\\DX_Project1",
             "isDirectory": true,
             "isMetadataFile": false,
