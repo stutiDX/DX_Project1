@@ -10,6 +10,7 @@ public class ContactsListController {
 			'LIMIT 10'
 		);
 		return results;
+		
 	}
 	
 	public void sortByLastName() {
