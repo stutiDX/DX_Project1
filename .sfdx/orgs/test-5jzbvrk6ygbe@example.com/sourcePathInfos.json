@@ -1,0 +1,252 @@
+[
+    [
+        "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app",
+        {
+            "sourcePath": "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1531834698148,
+            "changeTime": 1531834698148,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1531834698148,
+            "changeTime": 1531834698148,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1531834698179,
+            "changeTime": 1531834698179,
+            "contentHash": "94abc26760147d406e593f9b8feb161f43c370c3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532354157816,
+            "changeTime": 1532354157816,
+            "contentHash": "34bd8ab2d849d3b344f184d09971dc9fa6fddddc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\classes\\ContactListControllerTest.cls",
+        {
+            "sourcePath": "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\classes\\ContactListControllerTest.cls",
+            "isDirectory": false,
+            "size": 640,
+            "modifiedTime": 1532347014170,
+            "changeTime": 1532353473914,
+            "contentHash": "47030bc327bece1bc163cf5f555a8208b758ee6b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\classes\\ContactListControllerTest.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\classes\\ContactListControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1532347014545,
+            "changeTime": 1532347014545,
+            "contentHash": "a82ff50455a652224c677d30f2917032f7d93007",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1531834698164,
+            "changeTime": 1531834698164,
+            "contentHash": "3bd159f19c78bea1ad7b7576539f20f840379339",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\layouts\\Employee__c-Employee Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\layouts\\Employee__c-Employee Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2095,
+            "modifiedTime": 1531834698164,
+            "changeTime": 1531834698164,
+            "contentHash": "ad26537465188b2f6a62d4e5214ffd7bfc3110a4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1531834698164,
+            "changeTime": 1531834698164,
+            "contentHash": "b55e89b820e04112537fad94f319312e07f6509e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\objects\\Employee__c",
+        {
+            "sourcePath": "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\objects\\Employee__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1531834698164,
+            "changeTime": 1531834698164,
+            "contentHash": "a4bee72c78311716b2410471453ceb7767ee5d58",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\objects\\Employee__c\\Employee__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\objects\\Employee__c\\Employee__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2141,
+            "modifiedTime": 1531834698179,
+            "changeTime": 1531834698179,
+            "contentHash": "f2bdc1a1dd7899d51817c9cd5206a46ff556ac30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\pages",
+        {
+            "sourcePath": "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532328225778,
+            "changeTime": 1532328225778,
+            "contentHash": "ed095156df8ebf69a413e3996de416df9ca1b93d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\pages\\ContactSearch.page",
+        {
+            "sourcePath": "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\pages\\ContactSearch.page",
+            "isDirectory": false,
+            "size": 1179,
+            "modifiedTime": 1532328225778,
+            "changeTime": 1532328225778,
+            "contentHash": "d0eb1369705dc8740fd6aa1c6a5d16eb809b6f07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\pages\\ContactSearch.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\pages\\ContactSearch.page-meta.xml",
+            "isDirectory": false,
+            "size": 289,
+            "modifiedTime": 1531991774088,
+            "changeTime": 1531991774088,
+            "contentHash": "d97b6f6c93ad81781cbfaa1d8687ca04fce779b6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1",
+        {
+            "sourcePath": "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532328293646,
+            "changeTime": 1532328293646,
+            "contentHash": "2e96a54f89fae74ed2351e5549dab5297219626d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\classes\\ContactsListController.cls",
+        {
+            "sourcePath": "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\classes\\ContactsListController.cls",
+            "isDirectory": false,
+            "size": 485,
+            "modifiedTime": 1532354137302,
+            "changeTime": 1532354137302,
+            "contentHash": "44adec33674caaac31c129ef0d279a7fc287d087",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\classes\\ContactsListController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\classes\\ContactsListController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1532354135958,
+            "changeTime": 1532354135958,
+            "contentHash": "ef1eb477237bd2f8a8b5ea837e00af30bc059c93",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ]
+]

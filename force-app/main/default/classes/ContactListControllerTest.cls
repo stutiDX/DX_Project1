@@ -1,18 +1,17 @@
 @isTest
 public with sharing class ContactListControllerTest {
-	@testSetup {
+
+
+	@isTest 
+	static void testController() {
+		ContactsListController contrlrObj = new ContactsListController();
+		List<Contact> contactLst = new List<Contact>();
 		List<Contact> contLst = new List<Contact>();
 		Contact conObj = new Contact();
 		conObj.LastName = 'Test';
 		conObj.FirstName = 'First';
 		contLst.add(conObj);
 		insert contLst;
-	}
-
-	@isTest 
-	static void testController() {
-		ContactListController contrlrObj = new ContactListController();
-		List<Contact> contactLst = new List<Contact>();
 
 		Test.startTest();
 		
