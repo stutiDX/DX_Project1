@@ -52,9 +52,39 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1531834698148,
-            "changeTime": 1531834698148,
-            "contentHash": "3297c2d88bf3280da1496e0087155f9097351c04",
+            "modifiedTime": 1532354157816,
+            "changeTime": 1532354157816,
+            "contentHash": "34bd8ab2d849d3b344f184d09971dc9fa6fddddc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\classes\\ContactListControllerTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\classes\\ContactListControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 625,
+            "modifiedTime": 1532354553534,
+            "changeTime": 1532354553534,
+            "contentHash": "45b58373e3075ac576de6d90af9c462ddf28898d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\classes\\ContactListControllerTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\classes\\ContactListControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1532347014545,
+            "changeTime": 1532347014545,
+            "contentHash": "a82ff50455a652224c677d30f2917032f7d93007",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -66,10 +96,10 @@
             "sourcePath": "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\classes\\ContactsListController.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 489,
-            "modifiedTime": 1532078560172,
-            "changeTime": 1532078560172,
-            "contentHash": "5831ad2229c1b13ac200f3e957bab28f8fd61630",
+            "size": 485,
+            "modifiedTime": 1532354137302,
+            "changeTime": 1532354137302,
+            "contentHash": "44adec33674caaac31c129ef0d279a7fc287d087",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -82,8 +112,8 @@
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 204,
-            "modifiedTime": 1531834698148,
-            "changeTime": 1531834698148,
+            "modifiedTime": 1532354135958,
+            "changeTime": 1532354135958,
             "contentHash": "ef1eb477237bd2f8a8b5ea837e00af30bc059c93",
             "isWorkspace": false,
             "isArtifactRoot": false
@@ -172,8 +202,8 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1531993313189,
-            "changeTime": 1531993313189,
+            "modifiedTime": 1532328225778,
+            "changeTime": 1532328225778,
             "contentHash": "ed095156df8ebf69a413e3996de416df9ca1b93d",
             "isWorkspace": false,
             "isArtifactRoot": false
@@ -186,10 +216,10 @@
             "sourcePath": "C:\\Users\\tanuja.vyas\\Desktop\\Demo-project\\DX_Project1\\force-app\\main\\default\\pages\\ContactSearch.page",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1187,
-            "modifiedTime": 1531993313193,
-            "changeTime": 1531993313193,
-            "contentHash": "d9a0db7c6d2c97c2dc1c3a7edd3c1be5b3390a01",
+            "size": 1179,
+            "modifiedTime": 1532328225778,
+            "changeTime": 1532328225778,
+            "contentHash": "d0eb1369705dc8740fd6aa1c6a5d16eb809b6f07",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -217,9 +247,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1531834698195,
-            "changeTime": 1531834698195,
-            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "modifiedTime": 1532671248515,
+            "changeTime": 1532671248515,
+            "contentHash": "232ce626e9f6cd499a1e8afff9017c8821364640",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
