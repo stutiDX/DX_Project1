@@ -22,10 +22,9 @@
                 
             </apex:pageBlockTable>
         </apex:pageBlock>
-<<<<<<< HEAD
-        Hey this is Anjum
-=======
+        Hello!
+        Hey this is Anjum...Hi
+        <label></label>
         <label> Hey Hii</label>
->>>>>>> b534d1aafd9f5b2b08c0a5792b0f04411b08873e
     </apex:form>
 </apex:page>
