@@ -10,6 +10,7 @@
                         </apex:commandLink>
                     </apex:facet>
                 </apex:column>
+
                 <apex:column value="{! ct.LastName }">
                     <apex:facet name="header">
                         <apex:commandLink action="{! sortByLastName }" 
@@ -19,7 +20,6 @@
                 </apex:column>
                 <apex:column value="{! ct.Title }"/>
                 <apex:column value="{! ct.Email }"/>
-                
             </apex:pageBlockTable>
         </apex:pageBlock>
     </apex:form>
