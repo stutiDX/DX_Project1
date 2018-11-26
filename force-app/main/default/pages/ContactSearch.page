@@ -20,17 +20,7 @@
                 </apex:column>
                 <apex:column value="{! ct.Title }"/>
                 <apex:column value="{! ct.Email }"/>
-                
             </apex:pageBlockTable>
         </apex:pageBlock>
-
-        Hello!123
-        Hey this is Anjum...Hi
-        <label></label>
-
-        Hey this is Anjum Attar...
-        <label></label>
-
-
     </apex:form>
 </apex:page>
