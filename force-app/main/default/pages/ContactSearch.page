@@ -10,6 +10,7 @@
                         </apex:commandLink>
                     </apex:facet>
                 </apex:column>
+
                 <apex:column value="{! ct.LastName }">
                     <apex:facet name="header">
                         <apex:commandLink action="{! sortByLastName }" 
