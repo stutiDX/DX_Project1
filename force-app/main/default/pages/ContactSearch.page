@@ -19,6 +19,7 @@
                     </apex:facet>
                 </apex:column>
                 <apex:column value="{! ct.Title }"/>
+                <apex:column value="{!ct.Title}"/>
                 <apex:column value="{! ct.Email }" />
             </apex:pageBlockTable>
         </apex:pageBlock>
