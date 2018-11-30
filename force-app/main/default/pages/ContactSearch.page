@@ -26,6 +26,10 @@
                     </apex:facet>
                 </apex:column>
                 <apex:column value="{! ct.Email }" />
+                <apex:column value="{! ct.Phone}">
+                    <apex:facet name="header">Phone
+                    </apex:facet>
+                </apex:column>
             </apex:pageBlockTable>
         </apex:pageBlock>
     </apex:form>
